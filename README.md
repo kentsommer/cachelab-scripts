@@ -14,7 +14,8 @@ Instructions:
 
 5. In terminal, run: "./test_1024.pl" or "./test_2000.pl" 
 
-Important:
+IMPORTANT:
+
 If you make any changes to your optimized code, make sure to run "make" before rerunning the commands from instruction 5 above.
 
 
