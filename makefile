@@ -1,6 +1,6 @@
 CFLAGS=-O3 -lpapi -DPERFCTR 
 OPTCFLAGS=-O3 -lpapi -DPERFCTR #Can change to 2 if too much output.  Add more compiler options here.  
-RESULT_PATH=/export/scratch/cachelab_results_cride008/
+RESULT_PATH=/export/scratch/cachelab_results_YOURx500/
 
 all: compare_drivers
 	gcc $(OPTCFLAGS) -o matmul-1024-opt matmul-1024-opt.c
