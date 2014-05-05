@@ -1,1 +1,1 @@
-make setup; chmod u+x test_1024.pl; chmod u+x test_2000.pl
+module load soft/papi; make setup; chmod u+x test_1024.pl; chmod u+x test_2000.pl
