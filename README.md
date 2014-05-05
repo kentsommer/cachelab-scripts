@@ -11,7 +11,7 @@ Instructions:
 
 3. Make sure your optimized code is titled: "matmul-1024-opt.c" and "matmul-2000-opt.c"
 
-4. In terminal, run: "make setup; chmod u+x test_1024.pl; chmod u+x test_2000.pl"
+4. In terminal, run: "module load soft/papi; make setup; chmod u+x test_1024.pl; chmod u+x test_2000.pl"
 
 5. In terminal, run: "./test_1024.pl" or "./test_2000.pl" 
 
