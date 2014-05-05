@@ -17,6 +17,8 @@ Instructions:
 
 IMPORTANT:
 
-If you make any changes to your optimized code, make sure to run "make" before rerunning the commands from instruction 5 above.
+1. If you make any changes to your optimized code, make sure to run "make" before rerunning the commands from instruction 5 above. 
+
+2. Every time you log in you must run: "module load soft/papi; make setup" 
 
 
